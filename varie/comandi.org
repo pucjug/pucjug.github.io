@@ -1,2 +1,2 @@
-* smbclient -L //127.0.0.1. Ftp-like client to access SMB/CIFS resources on servers. -L: This option allows you to look at what services are available on a server.
-* cd
+* smbclient -L //127.0.0.1 - Ftp-like client to access SMB/CIFS resources on servers. -L: This option allows you to look at what services are available on a server.
+* cd - Change the shell working directory.
