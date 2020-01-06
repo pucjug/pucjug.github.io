@@ -1,6 +1,6 @@
 #+TITLE: Salute
 * S. V., pucjug
-* Scrivere un programma.
-** Approfondire
+* Scrivere un programma
+** Approfondire.
 * Cibo
-** Approfondire
+** Approfondire.
