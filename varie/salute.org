@@ -1,6 +1,5 @@
 #+TITLE: Salute
-#+AUTHOR: S. V. 
-#+SUBAUTHOR: pucjug
+* S. V., pucjug
 * Scrivere un programma.
 ** Approfondire
 * Cibo
