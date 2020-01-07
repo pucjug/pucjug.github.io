@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pucjug</title>
+	<atom:link href="http://pucjug.altervista.org/wordpress/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://pucjug.altervista.org/wordpress</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 Jan 2020 02:09:34 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>Prova 1</title>
+		<link>http://pucjug.altervista.org/wordpress/?p=38</link>
+				<comments>http://pucjug.altervista.org/wordpress/?p=38#respond</comments>
+				<pubDate>Tue, 07 Jan 2020 02:09:34 +0000</pubDate>
+		<dc:creator><![CDATA[pucjug]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">http://pucjug.altervista.org/wordpress/?p=38</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>http://pucjug.altervista.org/wordpress/?feed=rss2&#038;p=38</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Prova</title>
+		<link>http://pucjug.altervista.org/wordpress/?p=36</link>
+				<comments>http://pucjug.altervista.org/wordpress/?p=36#respond</comments>
+				<pubDate>Tue, 07 Jan 2020 02:01:46 +0000</pubDate>
+		<dc:creator><![CDATA[pucjug]]></dc:creator>
+				<category><![CDATA[Senza categoria]]></category>
+
+		<guid isPermaLink="false">http://pucjug.altervista.org/wordpress/?p=36</guid>
+				<description><![CDATA[Prova.]]></description>
+								<content:encoded><![CDATA[
+<p>Prova.</p>
+]]></content:encoded>
+							<wfw:commentRss>http://pucjug.altervista.org/wordpress/?feed=rss2&#038;p=36</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
